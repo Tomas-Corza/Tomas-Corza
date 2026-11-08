@@ -1,16 +1,25 @@
-## Hi there 👋
+# Tomas Corza
 
-<!--
-**Tomas-Corza/Tomas-Corza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Growth Marketing, Marketing Analytics & Automation
 
-Here are some ideas to get you started:
+I'm a Los Angeles-based marketing strategist who develops analytics tools, marketing dashboards, and automated reporting systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work combines marketing strategy, data analysis, and software development to help businesses understand and improve performance.
+
+### Areas of Focus
+- Marketing Analytics & Performance Measurement
+- Python, Pandas & Streamlit
+- Google Ads & Meta Ads
+- Shopify & E-commerce Analytics
+- Marketing Automation & AI
+- Jobs-to-be-Done Strategy
+
+### Featured Projects
+- [E-commerce Marketing Dashboard](https://github.com/Tomas-Corza/ecommerce-marketing-dashboard)
+- [Music Marketing Analytics](https://github.com/Tomas-Corza/music-marketing-analytics)
+- [Marketing OpenClaw AI](https://github.com/Tomas-Corza/marketing-openclaw-ai)
+
+### Portfolio
+https://tomascorza.me
+
+**Developed by Tomas Corza**
